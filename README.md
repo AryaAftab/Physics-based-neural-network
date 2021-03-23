@@ -7,4 +7,4 @@ The following sample problem will demonstrate that deep neural network can be ut
 Problem:
 Let us consider a non-linear Poisson equation:
 
-![equation](https://latex.codecogs.com/svg.latex?\!\!\!\!\!\!\!\!\!\nabla\cdot((1%20+%20u^2)%20\nabla%20u)%20=%20f%20\!\!\!\quad%20{\rm%20in}\,%20\Omega,\\u%20=%201%20%20\quad%20%20{\rm%20on}\,%20\Gamma_D,\\\nabla%20u\cdot%20n%20=%200%20\!\!\!\quad%20%20{\rm%20on}\,%20\Gamma_N.)
+<img src="http://www.sciweavers.org/upload/Tex2Img_1616460447/render.png">
