@@ -18,4 +18,4 @@ Let us consider a non-linear Poisson equation:
 
 
 We tested the network with two activation functions, relu and sine. The best network mode, which is close to normal, was obtained with the sine activation function.
-The results are saved into the *pics/10\*10*
+The results are saved into the (``` pics/10\*10 ```)
