@@ -10,14 +10,6 @@ Let us consider a non-linear Poisson equation:
 <img src="http://www.sciweavers.org/upload/Tex2Img_1616460447/render.png">
 
 
-
-
-
-
-
-
-
-
 ## Prerequisites
 - Tensorflow 2.x
 - Matplotlib 3.3
