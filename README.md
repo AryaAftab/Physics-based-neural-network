@@ -21,5 +21,5 @@ We tested the network with two activation functions, relu and sine. The best net
 The results are saved into the (``` pics/10*10 ```) folder.
 
 ## References
-[1] Sitzmann, V., Martel, J. N., Bergman, A. W., Lindell, D. B., & Wetzstein, G. (2020). Implicit neural representations with periodic activation functions. arXiv preprint arXiv:2006.09661.
+[1] Sitzmann, V., Martel, J. N., Bergman, A. W., Lindell, D. B., & Wetzstein, G. (2020). Implicit neural representations with periodic activation functions. arXiv preprint arXiv:2006.09661.<br />
 [2] https://fenicsproject.org/olddocs/dolfin/1.4.0/python/demo/documented/nonlinear-poisson/python/documentation.html
