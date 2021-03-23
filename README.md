@@ -8,11 +8,8 @@ Problem:
 Let us consider a non-linear Poisson equation:
 For a domain $\Omega \subset \mathbb{R}^N$ with boundary $\partial \Omega = \Gamma_{D} \cup \Gamma_{N}$, we consider the following nonlinear Poisson equation with particular boundary
 conditions reads:
-$$
-\begin{split}- \nabla\cdot((1 + u^2) \nabla u) &= f \quad {\rm in}\, \Omega,\\
-u &= 1  \quad  {\rm on}\, \Gamma_D,\\
-\nabla u\cdot n &= 0 \quad  {\rm on}\, \Gamma_N.\end{split}
-$$
+![image](https://user-images.githubusercontent.com/30603302/112075012-3590c480-8b95-11eb-84e2-54732fcc61f3.png)
+
 Here $f$ is input data and  denotes the outward directed boundary normal. The nonlinear variational form can be written in the following canonical form: find $u \in V$  such that
 $$
 F(u;v)=0\quad \forall\,v\in\hat{V}
