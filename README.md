@@ -6,7 +6,7 @@ The following sample problem will demonstrate that deep neural network can be ut
 
 Problem:
 Let us consider a non-linear Poisson equation:
-![img]https://bit.ly/31qOmVd[/img]
+[img]https://bit.ly/31qOmVd[/img]
 
 
 ## Prerequisites
