@@ -7,7 +7,7 @@ The following sample problem will demonstrate that deep neural network can be ut
 Problem:
 Let us consider a non-linear Poisson equation:
 
-![equation](https://latex.codecogs.com/svg.latex \!\!\!\!\!\!\!\!\!\nabla\cdot((1%20+%20u^2)%20\nabla%20u)%20=%20f%20\quad%20{\rm%20in}\,%20\Omega,\\u%20=%201%20%20\quad%20%20{\rm%20on}\,%20\Gamma_D,\\\nabla%20u\cdot%20n%20=%200%20\quad%20%20{\rm%20on}\,%20\Gamma_N.)
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5C%21%5C%21%5C%21%5C%21%5C%21%5C%21%5Cnabla%5Ccdot%28%281%20%2B%20u%5E2%29%20%5Cnabla%20u%29%20%3D%20f%20%5Cquad%20%7B%5Crm%20in%7D%5C%2C%20%5COmega%2C%5C%5C%0Au%20%3D%201%20%20%5Cquad%20%20%7B%5Crm%20on%7D%5C%2C%20%5CGamma_D%2C%5C%5C%0A%5Cnabla%20u%5Ccdot%20n%20%3D%200%20%5Cquad%20%20%7B%5Crm%20on%7D%5C%2C%20%5CGamma_N&bc=Cyan&fc=Black&im=png&fs=18&ff=mathpazo&edit=0" align="center" border="0" alt="\!\!\!\!\!\!\nabla\cdot((1 + u^2) \nabla u) = f \quad {\rm in}\, \Omega,\\u = 1  \quad  {\rm on}\, \Gamma_D,\\\nabla u\cdot n = 0 \quad  {\rm on}\, \Gamma_N" width="321" height="104" />
 
 
 ## Prerequisites
